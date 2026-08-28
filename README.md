@@ -6,7 +6,8 @@ TradeAlert monitors market data and sends push notifications when specific crite
 
 ## About the Project
 
-The project is developed without AI assistance and is used to explore:
+The project is developed without AI assistance to developer as much of my own undetstanding as possible.  
+TradeAlert is a 'guinea pig' to explore various topics:
 
 - Software design patterns
 - Unit testing
