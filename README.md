@@ -4,6 +4,12 @@ This repository contains selected code from my current project, **TradeAlert**.
 
 TradeAlert monitors market data and sends push notifications when specific criteria are met.
 
+⚠️ Work in Progress — Not currently runnable
+
+TradeAlert is an ongoing personal project exploring the design and implementation of a Python-based market monitoring and alerting system.
+
+This repository is currently a work in progress and should not be considered production-ready or fully runnable. Some components are incomplete, experimental, or currently serve as design scaffolding rather than finished implementations. There are known errors and unfinished sections throughout the codebase.
+
 ## About the Project
 
 The project is developed without AI assistance to developer as much of my own undetstanding as possible.  
